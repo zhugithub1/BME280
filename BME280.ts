@@ -1,6 +1,6 @@
 /**
  * makecode BME280 digital pressure and humidity sensor Package.
- * From microbit/micropython Chinese community.
+ * From microbit/micropython  community.
  * http://www.micropython.org.cn
  */
 
